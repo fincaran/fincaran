@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @fincaran
-- 👀 I’m interested in taking over the world
-- 🌱 I’m currently learning patience
-- 💞️ I’m looking to edit/proofread written material
-- 📫 How to reach me . . . fincaran@gmail.com
+- 👋 Hi, I’m free
+- 👀 I’m interested in
+- 🌱 I’m currently learning
+- 💞️ I’m looking to
+- 📫 How to reach me . . . 
 
 <!---
 fincaran/fincaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
